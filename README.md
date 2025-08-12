@@ -1,6 +1,6 @@
 # SidraStart – Web3 Crowdfunding for Ethical Innovation
 
-[![Visit SidraStart](https://img.shields.io/badge/Visit%20SidraStarts-sidrastart.com-blue?style=for-the-badge&logo=google-chrome)](https://sidrastarts.com)
+[![Visit SidraStart](https://img.shields.io/badge/Visit%20SidraStart-sidrastart.com-blue?style=for-the-badge&logo=google-chrome)](https://sidrastarts.com)
 
 **SidraStart** is the **leading Web3-powered crowdfunding platform** helping **entrepreneurs, startups, and creators** raise capital **quickly, securely, and in alignment with ethical principles**.  
 From **tech startups** to **community-driven social projects**, SidraStarts empowers innovators worldwide to launch, fund, and scale ideas with the transparency and security of blockchain technology.
