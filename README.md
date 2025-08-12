@@ -70,9 +70,8 @@ SidraStarts solves these issues by:
 
 SidraStarts is **more than crowdfunding** — it’s a **community of ethical innovators** building a better future with **Web3 technology**.
 
-- 🌐 Visit → [sidrastarts.com](https://sidrastarts.com)  
+- 🌐 Visit → [sidrastart.com](https://sidrastarts.com)  
 - 📲 Follow our social channels (coming soon)  
-- 📩 Partner & media inquiries: **contact@sidrastarts.com**  
 
 ---
 
